@@ -1,6 +1,4 @@
 ## 欢迎来到ice的博客
-
-
 ES6 教程：https://wangdoc.com/es6/
 ```
 Wangdoc.com, Internet document plan
