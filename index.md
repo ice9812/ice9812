@@ -1,4 +1,4 @@
-## 欢迎来到ice的博客
+## hello git push --set-upstream gh-pages master欢迎来到ice的博客
 ### Hi there 👋
 
 
